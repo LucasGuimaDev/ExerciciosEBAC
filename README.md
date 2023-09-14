@@ -4,7 +4,7 @@ O projeto consiste na resolução dos exercícios propostos pela EBAC - Escola B
 Exercícios realizados utilizando a linguagem de programação Python em arquivo jupyters
 
 ## Pacotes 
-Para rodar os códigos dos exercícios você deve ter os seguintes códigos instalados em sua máquina
+Para rodar os códigos dos exercícios você deve ter as seguintes bibliotecas instaladas em sua máquina
 - Pandas
 - BeautifulSoup4
 - matplotlib
