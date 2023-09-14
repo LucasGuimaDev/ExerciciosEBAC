@@ -48,3 +48,5 @@ Coleta de Dados 2 - crawling e scrapping de dados da web
 
 ## Módulo 12
 Data wrangling 1 - dataframe pandas
+
+## Módulo 13
