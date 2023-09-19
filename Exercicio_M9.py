@@ -58,5 +58,5 @@ df = pd.read_csv('./taxa-cdi.csv')
 # Salvando no grafico
 
 grafico = sns.lineplot(x=df['hora'], y=df['taxa'])
-grafico = grafico.set_xticklabels(labels=df['hora'], rotation=180)
-grafico.get_figure().savefig(f"{argv[1]}.png")
+grafico.set_xticklabels(labels=df['hora'], rotation=180)
+grafico.get_figure().savefig("grafico.png")
